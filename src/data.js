@@ -3,6 +3,7 @@ import weatherApp from "./images/weatherApp.JPG";
 import gifSearch from "./images/gifSearch.JPG";
 import todoList from "./images/todoList.JPG";
 import userSearch from "./images/userSearch.JPG";
+import plantWebShop from "./images/e_commerce_webshop.JPG"
 
 export const projects = [{
         title: "Meal Sharing",
@@ -39,10 +40,17 @@ export const projects = [{
         image: todoList,
         link: "https://todolist-app-dj.herokuapp.com/",
     },
+    {
+        title: "The Green Store",
+        subtitle: "React.js, Node.js, MySQL, Storybook, Firebase",
+        description: "An E-commerce plant web-shop: A team project with Database, backend, firebase authorization and payment methods in progress.",
+        image: plantWebShop,
+        link: "https://staging-webshop-class19-fp.herokuapp.com/",
+    },
 ];
 
 export const hardSkills = ["HTML(5)", "CSS(3)", "JavaScript(+ES6)", "React.js", "Node.js", "Knex", "MySql", "Git", "GitHub", "Rest API's", "Express.js",
-    "Docker"
+    "Docker","Firebase", "storybook", 
 ];
 
 export const softSkills = ["Adaptable", "Continous-learning", "Approachable", "Creative", "MultiCultural", "Problem-Solving"];
