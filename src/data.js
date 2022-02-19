@@ -50,7 +50,7 @@ export const projects = [{
 ];
 
 export const hardSkills = ["HTML(5)", "CSS(3)", "JavaScript(+ES6)", "React.js", "Node.js", "Knex", "MySql", "Git", "GitHub", "Rest API's", "Express.js",
-    "Docker","Firebase", "storybook", 
+    "Docker","Firebase", "Storybook", "Code reviewing",
 ];
 
 export const softSkills = ["Adaptable", "Continous-learning", "Approachable", "Creative", "MultiCultural", "Problem-Solving"];
