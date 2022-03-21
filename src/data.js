@@ -11,6 +11,7 @@ export const projects = [{
         description: "An E-commerce plant web-shop: A team project with forntend, database, backend, firebase authentication and paypal payment technologies.",
         image: plantWebShop,
         link: "https://staging-webshop-class19-fp.herokuapp.com/",
+        code: "https://github.com/HackYourFuture-CPH/fp-class19",
     },
     {
         title: "Meal Sharing",
