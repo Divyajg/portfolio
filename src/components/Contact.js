@@ -55,7 +55,7 @@ export default function Contact() {
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
-          Do you see me as a good fit for your team? I will be glad to meet you.
+          Does my profile sounds interesting to you? Leave a message and lets have a coffee meeting.
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">

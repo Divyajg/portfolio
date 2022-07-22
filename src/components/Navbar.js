@@ -1,14 +1,10 @@
 import { ArrowRightIcon } from "@heroicons/react/solid";
 import React from "react";
-import github from "../images/github.png";
 
 export default function Navbar() {
   return (
     <header className="bg-gray-700 sticky top-0 z-10 p-2em">
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-      <a href="https://github.com/Divyajg" className="mr-5 hover:text-white">
-          <img src={github} alt="GitHub" />
-        </a>
         <a
           href="#about"
           className="ml-3 text-xl title-font font-medium text-white mb-4 md:mb-0"
@@ -16,11 +12,23 @@ export default function Navbar() {
           DIVYAJYOTHI GUTTULA
         </a>
         <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700	flex flex-wrap items-center text-base justify-center">
+        <a href="https://github.com/Divyajg" className="mr-5 hover:text-white">
+          GitHub
+        </a>
+        <a href="linkedin.com/in/divyajyothi-guttula-0b34a2146" className="mr-5 hover:text-white">
+          LinkedIn
+        </a>
+          <a href="#skills" className="mr-5 hover:text-white">
+            Skills
+          </a>
+        <a href="#work" className="mr-5 hover:text-white">
+            Work
+          </a>
           <a href="#projects" className="mr-5 hover:text-white">
             Projects
           </a>
-          <a href="#skills" className="mr-5 hover:text-white">
-            Skills
+          <a href="#education" className="mr-5 hover:text-white">
+            Education
           </a>
           <a href="#contact" className="mr-5 hover:text-white">
             Contact
