@@ -17,15 +17,14 @@ export default function About() {
             Hey, I'm Divya
           </h1>
           <h3 className="sm:text-3xl text-2xl font-small title-font text-white mb-4 text-center">
-            Passionate to show your business on a screen.
+            Passionate to code.
           </h3>
           <p className="mb-8 leading-relaxed">
             I am a mother to 5-year-old wonderful kid. I am a full-stack Web
             developer by passion and self-motivation, skilled in creating
-            responsive & interactive UI, user authentication, API documentation,
-            knowledge of QA & testing, and able to communicate with all levels
-            of professionals. Constant learning and aggressive problem
-            diagnosing made me confident along with a bunch of skills to my
+            responsive & interactive UI, user authentication, API documentation, and able to communicate with all levels
+            of professionals. Constant learning and problem
+            solving curiosity made me confident along with a bunch of skills to my
             profile. Looking for a stable and challenging opportunity to utilize
             my skills & personality and an opportunity to learn.
             <br /> I love to cook and share a special interest in Photography,

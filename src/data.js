@@ -65,7 +65,7 @@ export const workExperience = [{
     company: "Karl Farm Aps",
     description: ["Developed web content for the app.",
     "Developed User Authentication using AWS Cognito.",
-    "Worked with Lambda functions",] ,
+"Stack: ReactJs and AWS"] ,
     from: "06/2022 - ",
     to: "present"
 },
