@@ -15,7 +15,7 @@ export default function Navbar() {
         <a href="https://github.com/Divyajg" className="mr-5 hover:text-white">
           GitHub
         </a>
-        <a href="linkedin.com/in/divyajyothi-guttula-0b34a2146" className="mr-5 hover:text-white">
+        <a href="https://linkedin.com/in/divya-jyothi-guttula" className="mr-5 hover:text-white">
           LinkedIn
         </a>
           <a href="#skills" className="mr-5 hover:text-white">

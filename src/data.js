@@ -56,18 +56,19 @@ export const projects = [{
 
 ];
 
-export const hardSkills = ["Git & GitHub", "BitBucket", "Firebase Auth", "AWS Cognito", "HTML(5)& CSS(3)", "Javascript", "Typescript", "React JS", "Node JS", "Rest API's", "MySQL Database", "Swagger", "Postman", "Storybook", "Tailwind CSS", "React-Native", "MS Azure", "Docker", "AWS Developer skills", "React Scheduler"];
+export const hardSkills = ["Git & GitHub", "BitBucket", "Firebase Auth", "Amazon Web Services", "HTML(5)& CSS(3)", "Javascript", "Typescript", "React JS", "Node JS", "Rest API's", "MySQL Database", "Swagger", "Postman", "Storybook", "Tailwind CSS", "React-Native", "MS Azure", "Docker", "GatsbyJs"];
 
 export const softSkills = ["Approachable", "Initiative Driven", "Active Learning", "Innovative Thinking", "Team Work", "Team Leadership", "Creative Problem solving", "Attention to detail", "Time management", "Code review"];
 
 export const workExperience = [{
     title: "WEB DEVELOPER",
     company: "Karl Farm Aps",
-    description: ["Developed web content for the app.",
-    "Developed User Authentication using AWS Cognito.",
+    description: ["Improvised demo page with React concepts",
+    "Conceptualized the data fetching from Database",
+    " Developed User authentication with AWS Cognito.",
 "Stack: ReactJs and AWS"] ,
     from: "06/2022 - ",
-    to: "present"
+    to: "09/2022"
 },
 {
     title: "ALUMNI AND VOLUNTEER",
@@ -103,7 +104,7 @@ export const workExperience = [{
 
 export const education=[
     {
-        title: "WEB DEVELOPMENT",
+        title: "WEB DEVELOPMENT BOOTCAMP",
         school: "Hack Your Future - Copenhagen, DK",
         description: "Learned to develop web applications using HTML, CSS, Javascript, ReactJs, NodeJs, ExpressJs, MySQL Database, Git, GitHub, storybook, Swagger, Postman, Docker, and Firebase by working on several projects.",
         from: "2022 - ",
