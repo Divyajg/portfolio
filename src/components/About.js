@@ -20,14 +20,18 @@ export default function About() {
             Love coding.
           </h3>
           <p className="mb-8 leading-relaxed">
-            A Software Developer experienced in creating static web
-            applications, Dynamic web applications, single page applications,
-            and Content management system. Skilled in writing clean,
-            maintainable, and efficient code that ensures high performance,
-            scalability, and reliability. Creating user friendly interface is my
-            ultimate motto and I Constantly upskill myself to stay current with
-            industry trends to achieve that. <br/>
-            I am easy going and flexible team mate and accountable independent.
+            I am a Full-Stack Developer with expertise in building static and
+            dynamic web applications, single-page applications, and content
+            management systems. I take pride in writing clean, maintainable, and
+            efficient code that ensures high performance, scalability, and
+            reliability. Creating user-friendly interfaces is my top priority,
+            and I continuously upskill to stay updated with industry trends. As
+            a security delivery specialist, I have also gained experience in
+            vulnerability assessment and risk management of client servers. As a
+            collaborative and adaptable team member, I am accountable and able
+            to work independently. <br />I am eager to leverage my skills and
+            contribute to innovative projects within a forward-thinking
+            organization.
           </p>
 
           <div className="flex justify-center">

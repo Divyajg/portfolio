@@ -93,14 +93,24 @@ export const softSkills = [
 
 export const workExperience = [
   {
-    title: "MATERNITY BREAK",
+    title: "Web DEVELOPER",
+    company: "Freelance",
+    description: [
+      "Creating a website and business portfolio for a photography team",
+      "Stack: ReactJs, CSS3, Project management, Internet design, Web Hosting",
+    ],
+    from: "11/2024 - ",
+    to: "present",
+  },
+  {
+    title: "Full-time Parenting",
     description: [
       "Delivered a baby, nurtured and delighted the phase as a new mom",
       " Developed and enhanced several skills like time management, resourcefulness, planning, adaptability, and empathy & emotional intelligence.",
       " Learned about secure coding and qualified GFACT Certification.",
     ],
-    from: "06/2023 - ",
-    to: "09/2024",
+    from: "09/2023 - ",
+    to: "08/2024",
   },
   {
     title: "FULL-STACK DEVELOPER",
@@ -131,21 +141,25 @@ export const workExperience = [
     to: "04/2023",
   },
   {
-    title: "CAREER BREAK",
-    description: ["Delivered a wonderful baby", "moved to denmark"],
-    from: "06/2022 - ",
-    to: "09/2022",
+    title: "Relocation",
+    description: ["moved to denmark, explored language, city and culture"],
+    from: "08/2017 - ",
+    to: "04/2020",
   },
   {
     title: "SECURITY ANALYST",
     company: "IBM India",
     description: [
-      "Analyzed risk analysis with the new patches.",
-      "Vulnerability assessment before Carrying out Health checks in the client-server environment and with the new patches.",
-      "Reporting Compliance documentation for the Security Audits both (internal & external).",
+      "Performed several tasks in delivering security & risk management services to the client.",
+      "Executed health-checking activities to client servers using approved automated tools like IEM, and BigFix Health check tool.",
+      "Helped the client to implement and design the Information Security Policies and Procedures in line with ISO27001:2013 standard.",
+      "Managed the newly built servers to be compliant before moving into production.",
+      "Maintained the security standards of the servers as per the security policies agreed upon by the customers.",
+      "Worked with the primary team to fix and validate the vulnerabilities reported by the tools.",
+      "Supported the team members by utilizing IBM tools designed for managing servers, databases, and middleware in maintaining documentation for internal and external audits.",
     ],
     from: "05/2015 - ",
-    to: "03/2016",
+    to: "06/2017",
   },
   {
     title: "TECH SUPPORT ENGINEER",
