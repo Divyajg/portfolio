@@ -21,17 +21,17 @@ export default function About() {
           </h3>
           <p className="mb-8 leading-relaxed">
             I am a Full-Stack Developer with expertise in building static and
-            dynamic web applications, single-page applications, and content
-            management systems. I take pride in writing clean, maintainable, and
-            efficient code that ensures high performance, scalability, and
-            reliability. Creating user-friendly interfaces is my top priority,
-            and I continuously upskill to stay updated with industry trends. As
-            a security delivery specialist, I have also gained experience in
-            vulnerability assessment and risk management of client servers. As a
-            collaborative and adaptable team member, I am accountable and able
-            to work independently. <br />I am eager to leverage my skills and
-            contribute to innovative projects within a forward-thinking
-            organization.
+            dynamic web applications, single-page applications, API testing and
+            Documentation, and content management systems. I am passionate about
+            writing clean, maintainable, and efficient code that ensures high
+            performance, scalability, and reliability. Creating user-friendly
+            interfaces is my top priority, and I continuously upskill to stay
+            updated with industry trends. As a security delivery specialist, I
+            have also gained experience in vulnerability assessment and risk
+            management of client servers. As a collaborative and adaptable team
+            member, I am accountable and able to work independently. <br />I am
+            eager to leverage my skills and contribute to innovative projects
+            within a forward-thinking organization.
           </p>
 
           <div className="flex justify-center">

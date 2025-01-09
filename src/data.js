@@ -71,6 +71,8 @@ export const hardSkills = [
   "React JS",
   "Node JS",
   "Rest API's",
+  "Postman",
+  "Swagger",
   "MySQL",
   "Tailwind CSS",
   "MS Azure",
@@ -174,11 +176,12 @@ export const workExperience = [
 
 export const education = [
   {
-    title: "WEB DEVELOPMENT BOOTCAMP",
+    title: "FULL-STACK DEVELOPER BOOTCAMP",
     school: "Hack Your Future - Copenhagen, DK",
     description:
-      "Learned to develop web applications using HTML, CSS, Javascript, ReactJs, NodeJs, ExpressJs, MySQL Database, Git, GitHub, storybook, Swagger, Postman, Docker, and Firebase by working on several projects.",
-    from: "2022",
+      "Learned to develop web applications using HTML, CSS, Javascript, ReactJs, NodeJs, ExpressJs, MySQL Database, Git, GitHub, storybook, Swagger, Postman, Docker, Figma design tool, and Firebase by working on several projects.",
+    from: "2021- ",
+    to: "2022",
   },
   {
     title: "BACHELOR OF ENGINEERING",
